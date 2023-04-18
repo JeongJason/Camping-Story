@@ -1,0 +1,46 @@
+화면구현 시험
+4/25일까지 4인의 팀원으로
+스타일가이드, 스토리보드, 프로토타입을 완성.
+
+==스타일가이드
+구동환경
+레이아웃
+navigation위 상세구조
+content의 상세구조
+푸터 구조
+그리드 형태
+버튼 스타일
+
+==스토리보드
+개정이력(History)
+유스케이스
+유스케이스명세서(최소2개)
+메뉴 구조
+스크린리스트
+프로세스
+flow chart (단 1가지 ex. log in, order, payment...)
+정책 (결제, 개인정보정책)
+권한 (마이페이지, 결제페이지관리, 공지사항,QnA)
+UI상세구조(**important)
+
+==프로토타입
+
+==주제==
+팬션 예약사이트
+About/Rooms(with Price)/Reservation/Community
+(intro, facilities)
+Camping Story
+회원/비회원/관리자/카드사
+
+Structure 참고사이트 
+http://deerpension.com/notice/
+http://www.starrymaru.com/page/reservation1.html
+http://803applehotel.com/include/landscape.php?biz_code=P202108005
+
+상호명 Camping Story 대표 8조
+사업자 등록 번호 : 851-15-00486 | 대구 북구 읍내동 산81-9
+대표 전화 번호 : 010-1555-5551
+email : jewon5539@naver.com
+
+
+
